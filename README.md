@@ -1,2 +1,3 @@
-# docs
-Jumper Documentation
+# Jumper
+
+This is the documentation site for Jumper.
