@@ -18,13 +18,13 @@ We’re sending out beta access at a sustainable pace. We want to be able to ass
 
 ## Accessibility Permission
 
-Jumper requires Accessibility Permission to trigger
+Jumper requires Accessibility Permission to trigger commands and menu bar items in Final Cut Pro through macOS's built-in Accessibility Automation.
 
 ---
 
 ## Screen Recording Permission
 
-Jumper requires the Screen Recording permission to detect things on your screen.
+Jumper requires the Screen Recording permission to detect things on your screen when using Final Cut Pro.
 
 This is a new Security Setting that started in macOS Catalina.
 
