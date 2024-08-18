@@ -1,5 +1,16 @@
 # Release Notes
 
+### Jumper 2024.08.18 (336)
+
+**🔨 Improvements**
+
+- The help buttons in the main `Jumper.app` now go to a placeholder documentation site.
+- Minor user interface improvements to the Jumper Workflow Extension. Thanks for suggesting Iain Anderson!
+- We now use delta updates for faster incremental updates. For example, if we just make a minor tweak to the user interface, you don't need to download the 1.44GB application again - you only download the files that changed.
+- Increased the minimum size of the Final Cut Pro Workflow Extension.
+
+---
+
 ### Jumper 2024.08.16 (311)
 
 **🔨 Improvements**
