@@ -2,7 +2,7 @@
 
 This is the privacy policy for the **Jumper**, a macOS and Windows Application.
 
-It does not contain any in-app purchases or advertisements.
+Jumper does not contain any in-app purchases or advertisements.
 
 Jumper uses [Sentry](https://sentry.io) for crash reporting.
 
