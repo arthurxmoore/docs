@@ -16,6 +16,24 @@ We’re sending out beta access at a sustainable pace. We want to be able to ass
 
 ---
 
+## Is any part of my footage uploaded during processing?
+
+No, we don’t upload the data processed from your footage, or any part of your footage. The processing is done locally and stays on your computer.
+
+---
+
+## Does Jumper require an internet connection?
+
+Jumper only goes online for license verification. Once your license key is verified, you can run everything offline.
+
+---
+
+## Does processing the footage create any significant amount of data on one's computer?
+
+When processing footage, Jumper generates some cache files. The size of the cache files varies depending on a few factors like resolution etc. Our initial analysis shows about 1-1.5 mb of cache per 10s of footage.
+
+---
+
 ## Accessibility Permission
 
 Jumper requires Accessibility Permission to trigger commands and menu bar items in Final Cut Pro through macOS's built-in Accessibility Automation.
@@ -69,3 +87,27 @@ A MacBook M1 Pro can process around 15 minutes of footage in 1 minute.
 ## What hardware was used in the video?
 
 In the video Jumper was running a MacBook Air M2.
+
+---
+
+## Can I transfer the cache to another editor’s machine?
+
+Yes, to transfer the cache:
+
+Open a terminal and navigate to the cache directory:
+
+`open ~/Library/Application\ Support/`
+
+Then you can copy the `jumper-cache` folder to the same location on the other editor’s machine.
+
+---
+
+### Will copying the cache overwrite existing files on the receiving machine?
+
+No, copying the cache will be additive. It will not overwrite existing files but add to them.
+
+---
+
+### Can I change the location of my cache directory?
+
+Yes, you can change the location of your cache directory under the Settings tab in Jumper.
