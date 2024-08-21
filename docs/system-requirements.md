@@ -10,7 +10,7 @@ Jumper supports **Final Cut Pro 10.8.1** and later on **macOS Sonoma**.
 
 You can find Final Cut Pro's system requirements [here](https://www.apple.com/au/final-cut-pro/specs/).
 
-It currently requires Apple Silicon, and doesn't currently work on older Intel machines.
+It currently **requires Apple Silicon**, and doesn't currently work on older Intel machines.
 
 ---
 
@@ -18,9 +18,11 @@ It currently requires Apple Silicon, and doesn't currently work on older Intel m
 
 ### macOS
 
-Jumper supports **Adobe Premiere 24** and later on **macOS Sonoma**.
+Jumper supports Adobe Premiere `v24.0.0` and later on **macOS Sonoma**.
 
-It currently requires Apple Silicon, and doesn't currently work on older Intel machines.
+You can find Adobe Premiere's System Requirements [here](https://helpx.adobe.com/au/premiere-pro/system-requirements.html).
+
+It currently **requires Apple Silicon**, and doesn't currently work on older Intel machines.
 
 If you're still on an earlier version of macOS and/or Premiere, you can still technically run Jumper in an **unsupported** way.
 
@@ -32,4 +34,6 @@ You can then navigate to **Contents > Helpers** and launch `JumperHelper.app`. T
 
 ### Windows
 
-Jumper support Adobe Premiere 2024 on Windows PCs (preferably with NVIDIA GPUs).
+Jumper supports Adobe Premiere `v24.0.0` and later on Windows PCs (preferably with NVIDIA GPUs).
+
+You can find Adobe Premiere's System Requirements [here](https://helpx.adobe.com/au/premiere-pro/system-requirements.html).
