@@ -1,14 +1,19 @@
 # End-user License Agreement
 
-This End-User License Agreement (EULA) is a legal agreement between you (either as an individual or on behalf of an entity) and The Jumper developers regarding your use of Jumper's desktop applications, and associated documentation (the "Software"). IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS EULA, DO NOT INSTALL, USE OR COPY THE SOFTWARE.
+**Last Updated:** 21st August 2024
+
+This End-User License Agreement (EULA) is a legal agreement between you (either as an individual or on behalf of an entity) and The Jumper developers regarding your use of Jumper's desktop applications, and associated documentation (the "Software").
+
+**IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS EULA, DO NOT INSTALL, USE OR COPY THE SOFTWARE.**
 
 ---
 
 ### Summary
 
 -	You must agree to all of the terms of this EULA to use this Software.
+-   You can read our Privacy Policy [here](/privacy/).
 -	If so, you may use the Software for free and for any lawful purpose.
--	This Software automatically communicates with its server for one reason: Check the validity of the license key you were provided.
+-	This Software automatically communicates with its server to check the validity of the license key you were provided.
 -	This Software is provided "as-is" with no warranties, and you agree that The Jumper developers is not liable for anything you do with it.
 -	You really ought to just go ahead and read the whole EULA. It's not all that long. You should not only rely on this summary.
 
@@ -37,8 +42,9 @@ This EULA entitles you to install as many copies of the Software as you want, an
 
 ### Privacy Notices
 
-The Software automatically communicates with its server for one purpose: Check the validity of the license key you were provided.
-There is no other data than your license key that The Software sends to its server.
+The Software automatically communicates with its server to check the validity of the license key you were provided.
+
+You can read our Privacy Policy [here](/privacy/).
 
 ---
 
@@ -47,6 +53,8 @@ There is no other data than your license key that The Software sends to its serv
 Certain components of the Software may be subject to open-source software licenses ("Open-Source Components"), which means any software license approved as open-source licenses by the Open Source Initiative or any substantially similar licenses, including without limitation any license that, as a condition of distribution of the software licensed under such license, requires that the distributor make the software available in source code format. The Software documentation includes copies of the licenses applicable to the Open-Source Components.
 
 To the extent there is conflict between the license terms covering the Open-Source Components and this EULA, the terms of such licenses will apply in lieu of the terms of this EULA. To the extent the terms of the licenses applicable to Open-Source Components prohibit any of the restrictions in this Agreement with respect to such Open-Source Component, such restrictions will not apply to such Open-Source Component. To the extent the terms of the licenses applicable to Open-Source Components require Licensor to make an offer to provide source code in connection with the Product, such offer is hereby made, and you may exercise it by contacting support@getjumper.io.
+
+You can find all the licenses by clicking the **Help > Acknowledgments** menu item in `Jumper.app` on macOS.
 
 ---
 
