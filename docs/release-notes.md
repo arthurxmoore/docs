@@ -1,5 +1,14 @@
 # Release Notes
 
+### Jumper 2024.08.21 (366)
+
+**🔨 Improvements**
+
+- Minor user interface improvements to the Final Cut Pro Workflow Extension and Premiere Extension. Thanks for all your feedback!
+- Updated the Final Cut Pro Workflow Extension icon.
+
+---
+
 ### Jumper 2024.08.18 (336)
 
 **🔨 Improvements**
