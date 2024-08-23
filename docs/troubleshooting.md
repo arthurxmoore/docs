@@ -4,6 +4,8 @@
 
 You can access the log files via the **Help** menu item in the main `Jumper.app` on macOS.
 
+![](/static/help.png)
+
 ---
 
 ### Jumper's not working as expected
@@ -11,6 +13,8 @@ You can access the log files via the **Help** menu item in the main `Jumper.app`
 The first thing to do is try restarting the **Jumper Engine** via the main `Jumper.app` on macOS.
 
 If you're using Final Cut Pro, you can also try restarting the **Final Cut Pro Automation Engine**.
+
+![](/static/install-19.png)
 
 ---
 
