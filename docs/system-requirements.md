@@ -6,7 +6,7 @@ Below are the System Requirements for Jumper...
 
 ## Final Cut Pro
 
-Jumper supports **Final Cut Pro 10.8.1** and later on **macOS Monterey** and later.
+Jumper supports **Final Cut Pro 10.6.5** and later on **macOS Monterey** and later.
 
 You can find Final Cut Pro's system requirements [here](https://www.apple.com/au/final-cut-pro/specs/).
 
