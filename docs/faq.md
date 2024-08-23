@@ -4,43 +4,43 @@ Got ideas or questions? Post them on our [Discussions page](https://github.com/G
 
 ---
 
-## How do I get access to the beta?
+### How do I get access to the beta?
 
 Go to the [Jumper Beta sign up form](https://forms.gle/Rk6ZezAaVzKPanH46) and make a request and we’ll get back to you as soon as we can.
 
 ---
 
-##  I’ve signed up but still haven’t gotten a download link or license key?
+###  I’ve signed up but still haven’t gotten a download link or license key?
 
 We’re sending out beta access at a sustainable pace. We want to be able to assist and support without being overwhelmed. Please have patience and you should get your access soon.
 
 ---
 
-## Is any part of my footage uploaded during processing?
+### Is any part of my footage uploaded during processing?
 
 No, we don’t upload the data processed from your footage, or any part of your footage. The processing is done locally and stays on your computer.
 
 ---
 
-## Does Jumper require an internet connection?
+### Does Jumper require an internet connection?
 
 Jumper only goes online for license verification. Once your license key is verified, you can run everything offline.
 
 ---
 
-## Does processing the footage create any significant amount of data on one's computer?
+### Does processing the footage create any significant amount of data on one's computer?
 
 When processing footage, Jumper generates some cache files. The size of the cache files varies depending on a few factors like resolution etc. Our initial analysis shows about 1-1.5 mb of cache per 10s of footage.
 
 ---
 
-## Accessibility Permission
+### Accessibility Permission
 
 Jumper requires Accessibility Permission to trigger commands and menu bar items in Final Cut Pro through macOS's built-in Accessibility Automation.
 
 ---
 
-## Screen Recording Permission
+### Screen Recording Permission
 
 Jumper requires the Screen Recording permission to detect things on your screen when using Final Cut Pro.
 
@@ -66,31 +66,31 @@ We use the same techniques as the totally open-source [CommandPost](https://comm
 
 ---
 
-## Full Disk Access Permission
+### Full Disk Access Permission
 
 Jumper requires Full Disk Access to read Final Cut Pro's Preferences File (`~/Library/Preferences/com.apple.FinalCut.plist`).
 
 ---
 
-## How fast is the search?
+### How fast is the search?
 
 We’ve tested on a few different machines (MBP M1, Windows i5 laptop, 2019 Ryzen desktop) and all were able to search through roughly 100 hours of footage in about 0.2 seconds.
 
 ---
 
-## How long does the processing take?
+### How long does the processing take?
 
 A MacBook M1 Pro can process around 15 minutes of footage in 1 minute.
 
 ---
 
-## What hardware was used in the video?
+### What hardware was used in the video?
 
 In the video Jumper was running a MacBook Air M2.
 
 ---
 
-## Can I transfer the cache to another editor’s machine?
+### Can I transfer the cache to another editor’s machine?
 
 Yes, to transfer the cache:
 
