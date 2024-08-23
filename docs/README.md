@@ -9,4 +9,8 @@
 
 # Jumper
 
-This is the work-in-progress documentation site for Jumper.
+Jump to the best parts of editing!
+
+Say goodbye to hours wasted on Naming, Tagging, Sorting, and endless searches for footage. Jumper helps you find the footage you need in seconds, so you can focus on the actual editing.
+
+This is the documentation site for Jumper - the most powerful and useful tool for Apple's Final Cut Pro and Adobe's Premiere Pro.

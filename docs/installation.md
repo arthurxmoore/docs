@@ -26,6 +26,10 @@ You can now access Jumper from the **Window > Extensions > Jumper** menu item:
 
 ## Final Cut Pro
 
+!!!
+Why does Final Cut Pro need all these permissions? Read the [FAQ](/faq/).
+!!!
+
 Open the `.dmg` file that has been downloaded from the website.
 
 It will look like this:

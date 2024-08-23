@@ -111,3 +111,11 @@ No, copying the cache will be additive. It will not overwrite existing files but
 ### Can I change the location of my cache directory?
 
 Yes, you can change the location of your cache directory under the Settings tab in Jumper.
+
+---
+
+### How does Jumper handle multi-channel audio?
+
+Currently Jumper only processes audio from the first channel that has valid dialogue.
+
+In a future update, Jumper will process all audio channels.
