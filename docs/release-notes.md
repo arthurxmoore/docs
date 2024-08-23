@@ -1,5 +1,36 @@
 # Release Notes
 
+### Jumper 2024.08.23 (394)
+
+**🔨 Improvements**
+
+- Minor user interface improvements to the Final Cut Pro Workflow Extension and Premiere Extension. Thanks for all your feedback!
+- Added a **Open Cache** button in the Media panel.
+- `Jumper.app` is now responsible for installing the Adobe Premiere plugin. `JumperHelper.app` will be updated in the next beta, as currently it can stall on first load—requiring you to manually restart in `Jumper.app`.
+
+---
+
+### Jumper 2024.08.22 (383)
+
+**🔨 Improvements**
+
+- Minor user interface improvements to the Final Cut Pro Workflow Extension and Premiere Extension. Thanks for all your feedback!
+- The main `Jumper.app` now checks for updates automatically on startup. Automatic updates are now on by default.
+- Increased the minimum size of the Final Cut Pro Workflow Extension.
+
+---
+
+### Jumper 2024.08.22 (375)
+
+**🔨 Improvements**
+
+- Minor user interface improvements to the Final Cut Pro Workflow Extension and Premiere Extension. Thanks for all your feedback!
+- Added **Recent Searches** feature to the Final Cut Pro Workflow Extension and Premiere Extension.
+- Improved the main `Jumper.app` so it doesn’t show Final Cut Pro information if Final Cut Pro isn’t installed.
+- `Jumper.app` now runs on macOS Monterey. Thanks for suggesting wandering.ant!
+
+---
+
 ### Jumper 2024.08.21 (366)
 
 **🔨 Improvements**
