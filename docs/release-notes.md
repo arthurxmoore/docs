@@ -1,5 +1,18 @@
 # Release Notes
 
+### Jumper 2024.08.26 (459)
+
+**🔨 Improvements**
+
+- Fixed various string truncation in the user interface.</li>
+- Added an auto-load thumbnail switch. Thanks for suggesting Iain Anderson!</li>
+- We now show a splash screen when Jumper Engine is still booting up.</li>
+- We now automatically restart the Jumper Engine if it's force quit whilst Adobe Premiere is running.</li>
+- Improved the "Total Files" counter in the Media panel.</li>
+- Added better controls in the Search panel for changing the "Add/Drop to timeline behaviour".</li>
+
+---
+
 ### Jumper 2024.08.23 (394)
 
 **🔨 Improvements**
