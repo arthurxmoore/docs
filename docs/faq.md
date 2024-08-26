@@ -2,17 +2,19 @@
 
 Got ideas or questions? Post them on our [Discussions page](https://github.com/GetJumper/docs/discussions) or [Discord](https://discord.com/invite/3JFNYAfwSb).
 
----
-
-### How do I get access to the beta?
-
-Go to the [Jumper Beta sign up form](https://forms.gle/Rk6ZezAaVzKPanH46) and make a request and we’ll get back to you as soon as we can.
+You can also email us here: support@getjumper.io
 
 ---
 
-###  I’ve signed up but still haven’t gotten a download link or license key?
+### How fast is the search?
 
-We’re sending out beta access at a sustainable pace. We want to be able to assist and support without being overwhelmed. Please have patience and you should get your access soon.
+We’ve tested on a few different machines (MBP M1, Windows i5 laptop, 2019 Ryzen desktop) and all were able to search through roughly 100 hours of footage in about 0.2 seconds.
+
+---
+
+### How long does the processing take?
+
+A MacBook M1 Pro can process around 15 minutes of footage in 1 minute.
 
 ---
 
@@ -22,7 +24,7 @@ No, we don’t upload the data processed from your footage, or any part of your 
 
 ---
 
-### Does Jumper require an internet connection?
+### Does Jumper require an Internet connection?
 
 Jumper only goes online for license verification. Once your license key is verified, you can run everything offline.
 
@@ -37,6 +39,8 @@ When processing footage, Jumper generates some cache files. The size of the cach
 ### Accessibility Permission
 
 Jumper requires Accessibility Permission to trigger commands and menu bar items in Final Cut Pro through macOS's built-in Accessibility Automation.
+
+We use the Accessibility API to programatically "click" on buttons and menu bar items - similar to how Automator, Keyboard Maestro, BetterTouchTool, etc. works.
 
 ---
 
@@ -68,19 +72,11 @@ We use the same techniques as the totally open-source [CommandPost](https://comm
 
 ### Full Disk Access Permission
 
-Jumper requires Full Disk Access to read Final Cut Pro's Preferences File (`~/Library/Preferences/com.apple.FinalCut.plist`).
+Jumper requires Full Disk Access to read Final Cut Pro's Preferences File (`~/Library/Preferences/com.apple.FinalCut.plist`) and the current Final Cut Pro Command Set.
 
----
+Due to macOS's very tight security in recent releases, we need explicit permission to read files inside the user's `Library` folder.
 
-### How fast is the search?
-
-We’ve tested on a few different machines (MBP M1, Windows i5 laptop, 2019 Ryzen desktop) and all were able to search through roughly 100 hours of footage in about 0.2 seconds.
-
----
-
-### How long does the processing take?
-
-A MacBook M1 Pro can process around 15 minutes of footage in 1 minute.
+We only use this permission to read Final Cut Pro preferences files.
 
 ---
 
@@ -90,13 +86,15 @@ In the video Jumper was running a MacBook Air M2.
 
 ---
 
-### Can I transfer the cache to another editor’s machine?
+### Can I transfer the Analysis Files to another editor’s machine?
 
-Yes, to transfer the cache:
+Yes, to transfer the Analysis Files on macOS:
 
-Open a terminal and navigate to the cache directory:
+- Open the `Terminal.app` from Spotlight, and navigate to the cache directory:
 
-`open ~/Library/Application\ Support/`
+```
+open ~/Library/Application\ Support/
+```
 
 Then you can copy the `jumper-cache` folder to the same location on the other editor’s machine.
 
@@ -104,13 +102,15 @@ Then you can copy the `jumper-cache` folder to the same location on the other ed
 
 ### Will copying the cache overwrite existing files on the receiving machine?
 
-No, copying the cache will be additive. It will not overwrite existing files but add to them.
+No, copying the Analysis Files will be additive.
+
+It will not overwrite existing files but add to them.
 
 ---
 
-### Can I change the location of my cache directory?
+### Can I change the location of my Analysis Files folder?
 
-Yes, you can change the location of your cache directory under the Settings tab in Jumper.
+Yes, you can change the location of your Analysis Files Folder under the `Settings` tab in Jumper.
 
 ---
 
