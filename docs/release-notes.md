@@ -1,5 +1,19 @@
 # Release Notes
 
+### Jumper 2024.08.27 (500)
+
+**🔨 Improvements**
+- Various user interface improvements and minor text/wording changes.
+- Fixed a regression in the previous release where we accidentally broke "Match Source", "Match Program" and other functions in the Adobe Premiere Extension. Apologies!
+- The "buy" link now opens in a new Browser window.
+- The "buy" link is now visible when Jumper is not licensed, and hides when licensed.
+- Pressing the "Cancel" button when choosing an Analysis Folder in Adobe Premiere now behaves correctly.
+- We now only show the recent popover if there are recent search values.
+- Improved the visual look of the Splash Screen.
+- Added feedback when the Jumper Engine is ready, but the Analysis files are not yet loaded for search and processing.
+
+---
+
 ### Jumper 2024.08.26 (459)
 
 **🔨 Improvements**
