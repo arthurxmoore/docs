@@ -2,6 +2,14 @@
 
 Below are the System Requirements for Jumper...
 
+!!!danger macOS Sequoia
+Jumper currently doesn't work on macOS Sequoia 15.0 or 15.1 beta's. We are actively exploring this.
+!!!
+
+!!!danger Intel Mac's
+Jumper currently doesn't work on Intel Mac's. We are actively exploring adding support for Intel Mac's.
+!!!
+
 ---
 
 ## Final Cut Pro
