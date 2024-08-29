@@ -2,7 +2,9 @@
 
 ## macOS
 
-You can download an Uninstall tool [here](https://download.getjumper.io/uninstall.zip).
+You can find the Uninstall tool in the `DMG` download for Jumper.
+
+![](/static/uninstall-in-dmg.png)
 
 Some folders will be protected by macOS, so you can either give the the Uninstall Tool **Full Disk Access** or remove certain files manually.
 
@@ -10,7 +12,9 @@ When you run the Uninstall tool you'll be presented with this:
 
 ![](/static/uninstall-01.png)
 
-Click **Uninstall Jumper**.
+Click **Uninstall Jumper** if you want to uninstall the Jumper application, Preferences and License details.
+
+Click **Uninstall Jumper & processed files** if you also want to remove all the processed video and audio files.
 
 You will be requested to enter your macOS password:
 

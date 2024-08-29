@@ -1,5 +1,21 @@
 # Release Notes
 
+### Jumper 2024.08.29 (534)
+
+**🔨 Improvements**
+- Various user interface improvements for the Adobe Premiere Extension and Final Cut Pro Workflow Extension.
+- Improved the look of the Audio Search panel.
+- Added "Connect" button to Video Search tab. Thanks for suggesting Kevin Luk!
+- Improved the insertion controls in the Audio Search tab.
+- Improved the Progress Bar when processing video and audio.
+- Added the Uninstall tool to inside the download DMG.
+- The Uninstall tool now optionally allows you to delete the processed audio and video files.
+- The download DMG now has a EULA.
+- Various text/label changes throughout Jumper to make it more consistent.
+- We now show a spinner after entering a license key, whilst it awaits server validation.
+
+---
+
 ### Jumper 2024.08.27 (500)
 
 **🔨 Improvements**
@@ -18,12 +34,12 @@
 
 **🔨 Improvements**
 
-- Fixed various string truncation in the user interface.</li>
-- Added an auto-load thumbnail switch. Thanks for suggesting Iain Anderson!</li>
-- We now show a splash screen when Jumper Engine is still booting up.</li>
-- We now automatically restart the Jumper Engine if it's force quit whilst Adobe Premiere is running.</li>
-- Improved the "Total Files" counter in the Media panel.</li>
-- Added better controls in the Search panel for changing the "Add/Drop to timeline behaviour".</li>
+- Fixed various string truncation in the user interface.
+- Added an auto-load thumbnail switch. Thanks for suggesting Iain Anderson!
+- We now show a splash screen when Jumper Engine is still booting up.
+- We now automatically restart the Jumper Engine if it's force quit whilst Adobe Premiere is running.
+- Improved the "Total Files" counter in the Media panel.
+- Added better controls in the Search panel for changing the "Add/Drop to timeline behaviour".
 
 ---
 
