@@ -1,5 +1,14 @@
 # Release Notes
 
+### Jumper 2024.08.30 (557)
+
+**🔨 Improvements**
+- Various improvements to the user interface in the Final Cut Pro Workflow Extension and the Adobe Premiere Extension.
+- Fixed the EULA formatting in the download DMG. It now displays correctly in Dark Mode.
+- Improved how we handle automatic updates in the main Jumper application.
+
+---
+
 ### Jumper 2024.08.29 (534)
 
 **🔨 Improvements**
