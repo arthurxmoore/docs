@@ -1,5 +1,14 @@
 # Release Notes
 
+### Jumper 2024.08.31 (572)
+
+**🔨 Improvements**
+- Major under-the-hood improvements with how the Jumper Engine communicates with the Final Cut Pro Automation Engine. This should hopefully fix some issues some users were having with macOS Sequoia and the Final Cut Pro Workflow Extension. If you're still having issues, please reach out via email, GitHub or Discord.
+- Various user interface improvements in the Final Cut Pro Workflow Extension and Adobe Premiere Extension related to scrolling and overflow.
+- We now disable the License Key field whilst the license is being validated.
+
+---
+
 ### Jumper 2024.08.30 (557)
 
 **🔨 Improvements**
