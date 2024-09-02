@@ -9,7 +9,7 @@
 - Improved the main Jumper.app to make it more obvious that you don't require special macOS Permission to use Jumper with Adobe Premiere.
 - We now write the Final Cut Pro Automation Engine log files to the same folder as the other log files.
 
-**🐞 Bug Fixes**
+**🐞 Bug Fix**
 - Fixed a bug where the Final Cut Pro Automation Engine would fail to find the Final Cut Pro Viewer on the macOS 15 Sequoia beta. Thanks for reporting Mitchell Harris!
 
 ---
