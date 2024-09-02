@@ -14,4 +14,4 @@ Jumper communicates with it's own servers for checking licensing details.
 
 We use this GitHub Repository for documentation hosting and technical support. You can read GitHub's Privacy Policy [here](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
-If you have any questions or concerns, you can email us: support@getjumper.io
+If you have any questions or concerns, you can email us: [hello@getjumper.io](mailto:hello@getjumper.io)

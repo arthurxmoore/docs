@@ -2,7 +2,7 @@
 
 Got ideas or questions? Post them on our [Discussions page](https://github.com/GetJumper/docs/discussions) or [Discord](https://discord.com/invite/3JFNYAfwSb).
 
-You can also email us here: support@getjumper.io
+You can also email us here: [hello@getjumper.io](mailto:hello@getjumper.io)
 
 ---
 
