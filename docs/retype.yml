@@ -5,15 +5,24 @@ url: docs.getjumper.io # Add your website address here
 
 branding:
   title: Jumper
-  #label: Docs
   logo: static/logo.png
 
-#links:
-#
-#- text: Buy
-#  link: /buy/
-#  icon: desktop-download
-#  target: blank
+links:
+
+- text: Discord
+  link: https://discord.gg/3JFNYAfwSb
+  icon: feed-discussion
+  target: blank
+
+- text: Issues
+  link: https://github.com/GetJumper/docs/issues
+  icon: issue-opened
+  target: blank
+
+- text: Discussions
+  link: https://github.com/GetJumper/docs/discussions
+  icon: comment-discussion
+  target: blank
 
 footer:
   copyright: "&copy; Copyright {{ year }} Jumper. All rights reserved."
