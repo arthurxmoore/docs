@@ -1,5 +1,12 @@
 # Release Notes
 
+### Jumper 2024.09.04 (636)
+
+**🔨 Improvements**
+- We now always make sure the Search field has focus when changing panels - i.e. when going from Visuals to Speech, or Media to Search.
+
+---
+
 ### Jumper 2024.09.02 (614)
 
 **🔨 Improvements**
