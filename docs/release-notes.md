@@ -1,5 +1,17 @@
 # Release Notes
 
+### Jumper 2024.09.05 (645)
+
+**🔨 Improvements**
+- The license key is automatically submitted after you paste in a license key.
+- Improved recent search feature in the Final Cut Pro Workflow Extension and Premiere Extension.
+- Improved tooltips in the Final Cut Pro Workflow Extension and Premiere Extension.
+- Improved the visual thumbnails interaction in the Final Cut Pro Workflow Extension and Premiere Extension.
+- General improvements to the Media panel user interface in the Final Cut Pro Workflow Extension and Premiere Extension.
+- Improved error messages and alerts in the Final Cut Pro Workflow Extension and Premiere Extension.
+
+---
+
 ### Jumper 2024.09.04 (636)
 
 **🔨 Improvements**
