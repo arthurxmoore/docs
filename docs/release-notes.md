@@ -1,5 +1,34 @@
 # Release Notes
 
+### Jumper 2024.09.07 (672)
+
+**🔨 Improvements**
+- We now restart the Jumper Engine and Final Cut Pro Automation Engine when doing an automatic update.
+- Increased the brightness of the filename in the Thumbnails in the Final Cut Pro Workflow Extension and Premiere Extension.
+- Restored the ability the right-click to open contextual menus on text fields through the Final Cut Pro Workflow Extension and Premiere Extension.
+- Set a maximum height for the "Recent Searches" popover.
+- Replaced the trashcan icon with an "X" icon for ignoring a clip in the Final Cut Pro Workflow Extension and Premiere Extension.
+- Improved the sorting order in the Media Panel in the Final Cut Pro Workflow Extension and Premiere Extension.
+
+
+**🐞 Bug Fixes**
+Fixed a bug when selecting checkboxes in the Media Panel. Thanks for reporting Marc Bach!
+Fixed a bug where the "Process Selection" button could be disabled for a few seconds.
+
+---
+
+### Jumper 2024.09.06 (655)
+
+**🔨 Improvements**
+- We now take into account the Library name when selecting an Event. Thanks for suggesting Iain Anderson!
+
+
+**🐞 Bug Fix**
+- The Final Cut Pro Automation Engine Debug Console no longer opens at launch. Sorry about that folks!
+- Fixed a user interface glitch where "Process Selection" was written twice in the Media panel button.
+
+---
+
 ### Jumper 2024.09.05 (645)
 
 **🔨 Improvements**
