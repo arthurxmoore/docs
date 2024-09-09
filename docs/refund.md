@@ -10,11 +10,12 @@ Please review our refund policy below for details.
 
 **Refund Eligibility:**
 
-You are eligible for a refund if the request is made within 7 days of the original purchase or renewal date.
+We want you to be completely satisfied with your experience. If, for any reason, Jumper doesn't work for you, 
+you are eligible for a refund. Simply submit your refund request within 14 days of your original purchase or renewal date, and we'll process it for you.
 
 **Partial Refunds:**
 
-After 7 days, no refunds will be provided for the current billing cycle, but you may cancel your subscription to prevent future charges.
+After 14 days, no refunds will be provided for the current billing cycle, but you may cancel your subscription to prevent future charges.
 
 **Auto-Renewal:**
 
@@ -26,7 +27,8 @@ Monthly subscriptions automatically renew unless canceled. You may cancel at any
 
 **Refund Eligibility:**
 
-You are eligible for a full refund if the request is made within 14 days of the original purchase or renewal date.
+We want you to have the best experience with Jumper. If, for any reason, Jumper doesn't work for you, you are eligible for a refund.
+Just submit your refund request within 14 days of your original purchase or renewal date, and we'll take care of it for you.
 
 **Partial Refunds:**
 
@@ -46,7 +48,7 @@ Refund requests for perpetual licenses must be made within 14 days of the origin
 
 **No Refunds After 14 Days:**
 
-Perpetual licenses, including the associated one year of updates and support, are non-refundable after the 14-day window. The perpetual license grants lifetime access to the software version purchased, and updates/support are limited to one year from the date of purchase.
+Perpetual licenses, including the associated one-year of updates and support, are non-refundable after the 14-day window. The perpetual license grants lifetime access to the software version purchased, and updates/support are limited to one year from the date of purchase.
 
 ---
 
@@ -63,6 +65,7 @@ Refunds are not available for:
 - Requests made outside the eligible refund windows stated above.
 - Failure to cancel auto-renewal subscriptions before the renewal date.
 - Inability to use the software due to issues unrelated to the software itself, such as hardware incompatibility or user error.
+- Deciding Jumper is not for you after purchase.
 
 We reserve the right to modify or update this refund policy at any time. Any changes will be posted on our website and will be effective immediately.
 
