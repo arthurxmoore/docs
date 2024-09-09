@@ -1,5 +1,14 @@
 # Release Notes
 
+### Jumper 2024.09.09 (682)
+
+**🔨 Improvements**
+- Improved the user interface for recent searches in the Final Cut Pro Workflow Extension and Adobe Premiere Extension. Thanks to all our beta testers for their feedback on this!
+- Improved the Uninstall Utility for scenarios where you might have a different Analysis files folder for Final Cut Pro and Adobe Premiere.
+- We now ensure that the Jumper Engine and Final Cut Pro Automation Engine we're launching are from the same application bundle as the main Jumper application. This improves reliability for beta testers who might have multiple versions of Jumper on their system.
+
+---
+
 ### Jumper 2024.09.07 (672)
 
 **🔨 Improvements**
